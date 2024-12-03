@@ -1,0 +1,4 @@
+alice,pa$$word123
+bob,123456
+carol,secureP@ssw0rd
+akshay,@akshay123$%!
